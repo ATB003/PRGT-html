@@ -1,0 +1,49 @@
+
+   
+nav{
+    background-color: black;
+    color: aliceblue;
+    display: flex ;
+    
+}
+
+li{
+    margin: 10px 75px;
+
+}
+
+ul{
+    color: aliceblue; 
+    flex-direction: row;
+    display:flex;
+    flex-wrap: wrap;
+    list-style: none;
+     
+}
+#home{
+    color:white;
+
+}
+
+h1,h1,h1{
+
+    color: blue;
+background-color: black;
+}
+p{
+    color:black;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+footer{
+font-style: italic;
+font-size: 10px;
+}
+.p1{
+    font-size: 10px;
+}
+
+.x{
+    background-color: violet ;
+}
+    
